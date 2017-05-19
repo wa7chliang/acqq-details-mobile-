@@ -34,7 +34,7 @@ export default {
 		data(){
 			return {
 				tall:{},
-				num:560
+				num:500
 			}
 		},
 		created(){
